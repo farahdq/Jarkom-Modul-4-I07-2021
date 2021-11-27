@@ -10,8 +10,7 @@ Julius Adetya Eka Bhaswara (05111942000026)
 ### Tabel Subnet Dari Soal
 
 
-| Subnet | Alias | Jumlah IP | Netmask |
+| First Header  | Second Header |
 | ------------- | ------------- |
-| A1 | Jipangu - Pucci | 101 | /25 |
-| A2 | Courtyard - Calmbelt - Pucci | 2021 | /21 |
-| A3 | Pucci - Water7 | 2 | /30 |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
