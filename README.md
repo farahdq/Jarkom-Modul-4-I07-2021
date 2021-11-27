@@ -15,6 +15,11 @@ Julius Adetya Eka Bhaswara (05111942000026)
 | A1      | Jipangu - Pucci               |  101      |  /25    |
 | A2      | courtyard - Calmbelt - Pucci  |  2021     |  \21    |
 
+
+## Subnet Tree
+
+![Subnet Tree](https://user-images.githubusercontent.com/73812417/143686373-b3ba9318-bbdd-4526-9fb0-161250b1702a.jpg)
+
 ## VLSM
 
 [![image.png](https://i.postimg.cc/mZ7JcyhF/image.png)](https://postimg.cc/NLfpST6g)
