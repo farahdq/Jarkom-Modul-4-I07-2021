@@ -7,13 +7,27 @@ Julius Adetya Eka Bhaswara (05111942000026)
 
 ![image](https://user-images.githubusercontent.com/77782259/143684812-c3134e39-bd3a-48ba-9d5c-bd4671fc5577.png)
 
-### Tabel Subnet Dari Soal
+### Tabel Subnet
 
 
 **Subnet**|**Alias**|**Jumlah IP**|**Netmask**|
 :-------:| :-------------:|:---------:|:-------:
 | A1      | Jipangu - Pucci               |  101      |  /25    |
-| A2      | courtyard - Calmbelt - Pucci  |  2021     |  \21    |
+| A2      | Courtyard - Calmbelt - Pucci  |  2021     |  /21    |
+| A3      | Pucci - Water7                |  2        |  /30    |
+| A4      | Ciper - Water7                |  701      |  /22    |
+| A5      | Blueno - Foosha               |  1001     |  /22    |
+| A6      | Water7 - Foosha               |  2        |  /30    |
+| A7      | Foosha - Guanho               |  2        |  /30    |
+| A8      | Jabra - Guanho                |  521      |  /22    |
+| A9      | Guanho - Alabasta - Maingate  |  502      |  /23    |
+| A10     | Alabasta - Jorge              |  13       |  /28    |
+| A11     | Guanho - Oimo                 |  2        |  /30    |
+| A12     | Enieslobby - Seastone - Oimo  |  252      |  /24    |
+| A13     | Seastone - Elena              |  721      |  /22    |
+| A14     | Foosha - Doriki               |  2        |  /30    |
+| A15     | Oimo - Fukurou                |  2        |  /30    |
+| Total   | -                             |  5845     |  /19    |
 
 
 ## Subnet Tree
